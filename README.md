@@ -1,118 +1,99 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi there, I'm Shannon “Shae” Smith 👋
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&center=true&size=22&pause=1000&color=6D0DD4&width=435&lines=Hi+I'm+Shannon%2C+but+(almost)+everyone+calls+me..." alt="Typing SVG" /></a>
+Cybersecurity Professional | U.S. Navy Veteran | Offensive-Leaning Defender  
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-                        width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"
-        height="25"></a>
-</h2>
+I’m a cybersecurity practitioner focused on identifying vulnerabilities before they become incidents. My work centers on offensive security, adversarial simulation, and strengthening defensive detection capabilities through hands-on labs and CTF challenges.
 
-<p align="center">
-   	<img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/me3.jpg" style="width: -webkit-fill-available;"/>
-</p>
+When I’m not building lab environments or analyzing traffic captures, you’ll likely find me cycling or working on creative projects like woodworking and art.
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎓 Education
 
+**Master of Information Technology**  
+Virginia Tech, 2023  
+Graduate Certificates: Software Development & Cybersecurity Policy  
 
-<h3 align="center"> I am now a Master of Information Technology as of December 2023! </h3>
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg"
-                       height="48" width="96"/></p>
-<h3 align="center"> With graduate certificates in </h3>
-<h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development
-    and Cybersecurity Policy </a></h3>
+**Bachelor of Science in Technical Management**  
+DeVry University, 2017
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏅 Certifications
 
+- Certified Ethical Hacker (CEH)  
+- CompTIA Security+  
+- CompTIA Linux+  
+- Splunk Core Certified Power User (CCPU)  
 
-<h3 align="center"> When I'm NOT doing that, I'm ... </h3>
+### 📚 SANS Track (In Progress)
+- SEC275 – Foundations: Computers, Technology & Security  
+- SEC401 – Security Essentials  
+- SEC504 – Hacker Tools, Techniques & Incident Handling  
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&center=true&size=22&pause=1000&color=6D0DD4&width=435&lines=%F0%9F%92%BB+Improving+my+dev+skills;%F0%9F%8E%A8+Creating+art%2C+sculpting+or+woodworking+%F0%9F%94%A8;%F0%9F%8F%A0+Attempting+home+renovation+projects;Maybe+%F0%9F%A5%8Aboxing+or+doing+%F0%9F%8E%AF+archery;Spending+time+with+my+%F0%9F%92%8D+and+%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE;%F0%9F%99%8C+Always+ready+to+connect+and+collaborate!" alt="Typing SVG" /></a>
+---
 
+## 🛠 Skills & Technical Focus
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Operating Systems
+- Linux (Kali, Ubuntu)
+- Windows
 
+### Languages & Scripting
+- Python  
+- Bash  
+- Java  
+- SQL  
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
+### Core Specialties
+- Offensive Security  
+- Red / Blue / Purple Teaming  
+- Threat Hunting & Detection  
+- Security Operations (SOC)  
+- Network Security  
+- Infrastructure Security  
+- Malware Analysis  
+- Vulnerability Management  
 
-<p align="center"><a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
-        <img width="48" height="48" src="https://img.icons8.com/nolan/48/linkedin-circled.png" alt="linkedin-circled"/></a>
-    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
-        <img width="48" height="48" 
-		src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png"/></a>
-    <a title="Portfolio" href="https://callmeShae.github.io/">
-        <img src="https://img.icons8.com/nolan/48/github.png"/></a>
-</p>
+### Security Tools
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- Metasploit  
+- BloodHound  
+- Splunk  
+- ELK Stack  
+- Cisco Packet Tracer  
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💼 Experience Highlights
 
+- U.S. Navy Veteran – leadership & operational discipline  
+- Active Capture-the-Flag (CTF) participant  
+- Home lab design & security simulation  
+- Threat detection and log analysis practice  
 
-<h3 align="center"> Tech Stack </h3>
+---
 
-<p align="center">
-    <a title="Tech Stack" href="">
-        <img src="https://github.com/callmeShae/Personal_Files/blob/main/Icon%20gif.gif" width="100px"/>
-    </a>
-</p>
+## 🔎 Current Focus
 
+- Expanding red team tradecraft  
+- Strengthening detection engineering skills  
+- Publishing structured CTF walkthroughs  
+- Building enterprise-style lab infrastructure  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+## 🌱 Beyond Cybersecurity
 
-<h3 align="center"> 📊 Github Stats </h3>
+Outside of security, I enjoy cycling and creative disciplines like woodworking and art — practices that reinforce patience, precision, and continuous improvement.
 
-<div align="center" dir="auto">
-	<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmeShae&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" />
-</div>
-<div align="center" dir="auto">
-	<img style="max-width: 100%;" src="https://streak-stats.demolab.com?user=callmeShae&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true&include_all_commits=true" />
-</div>
-<div align="center" dir="auto">
-	<img style="max-width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmeShae&theme=radical" media="(prefers-color-scheme: dark)" />
-</div>
+---
 
-<br>
+## 🤝 Connect With Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- LinkedIn: https://www.linkedin.com/in/shannonasmith/  
+- Credly: https://www.credly.com/users/shannon-smith-it-usn  
 
-
-<h3 align="center"> 🏆 GitHub Trophies </h3>
-<div align="center" dir="auto">
- 	<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=callmeShae&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h3 align="center">
-    🍀 Support Me on my Journey! 🍀
-</h3>
-
-<p align="center"><a href="https://www.buymeacoffee.com/shaesmith1223"><img
-        src="https://github.com/callmeShae/Personal_Files/blob/main/Buy%20me%20a%20coffee.png" height="50" width="210"></a>
-</p>
-
-<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/callmeShae/dashboard/profile"> Sponsor me </a> a Dollar 💵 </p>
-
-<p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub Stars </a>⭐
-
-<p align="center">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=flat&color=red" alt="callmeShae's Followers"/>
-	<img alt="GitHub stars" src="https://img.shields.io/github/stars/callmeShae?label=Stars&style=flat&color=white" alt="callmeShae's Stars"/>
- 	<img src="https://komarev.com/ghpvc/?username=callmeshae&label=Profile%20views&color=0e75b6&style=flat" alt="callmeshae" /> 
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<p align="center"> Credits: <a href="https://github.com/callmeShae"> callmeShae </a>
-</p>
-
-
-<!---
-callmeShae/callmeShae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Security is not a checklist — it’s a mindset.
