@@ -1,78 +1,91 @@
-# Hi there, I'm Shannon “Shae” Smith 👋
+<div align="center">
 
-Cybersecurity Professional | U.S. Navy Veteran | Offensive-Leaning Defender  
+# 👋 Shannon Smith
 
-I’m a cybersecurity practitioner focused on identifying vulnerabilities before they become incidents. My work centers on offensive security, adversarial simulation, and strengthening defensive detection capabilities through hands-on labs and CTF challenges.
+**Cybersecurity Professional | Offensive-Leaning Defender | U.S. Navy Veteran**
 
-When I’m not building lab environments or analyzing traffic captures, you’ll likely find me cycling or working on creative projects like woodworking and art.
+I focus on identifying vulnerabilities **before they become incidents**.
+
+My work blends **offensive security techniques with defensive detection**, using hands-on labs, adversarial simulation, and Capture-the-Flag (CTF) investigations to understand how attacks occur — and how defenders can detect them.
+
+</div>
+
+---
+
+## 🔬 Featured Cybersecurity Work
+
+**CTF Investigation Portfolio**
+
+Structured investigations and technical writeups from multiple cybersecurity competitions.
+
+Repository ➡️ https://github.com/shannonasmith/CTF-Writeups
+
+Focus areas include:
+
+- Web exploitation  
+- DFIR & artifact analysis  
+- Cryptography  
+- Network traffic analysis  
+- OSINT investigations  
+- Linux system analysis  
+- Threat detection & attacker behavior  
+
+---
+
+## 🛠 Technical Skills
+
+**Operating Systems**: <br>
+- Linux (Kali, Ubuntu) • Windows  
+
+**Languages & Scripting**: <br>
+- Python • Bash • Java • SQL  
+
+**Security Tools**: <br>
+- Nmap • Wireshark • Burp Suite • Metasploit • BloodHound • Splunk • ELK Stack • Cisco Packet Tracer  
+
+**Core Specialties**: <br>
+- Offensive Security • Red / Blue / Purple Teaming • Threat Hunting • Security Operations (SOC)  
+- Network Security • Infrastructure Security • Malware Analysis • Vulnerability Management  
+
+---
+
+## 🏅 Certifications
+
+GIAC **GFACT – Foundational Cybersecurity Technologies**  
+Certified Ethical Hacker (**CEH**)  
+CompTIA **Security+**  
+CompTIA **Linux+**  
+Splunk **Core Certified Power User (CCPU)**  
+
+---
+
+## 📚 WiCyS/SANS Training Track (In Progress)
+
+SEC401 – Security Essentials  
+SEC504 – Hacker Tools, Techniques & Incident Handling  
 
 ---
 
 ## 🎓 Education
 
 **Master of Information Technology**  
-Virginia Tech, 2023  
-Graduate Certificates: Software Development & Cybersecurity Policy  
+Virginia Tech — 2023  
+
+Graduate Certificates  
+• Software Development  
+• Cybersecurity Policy  
 
 **Bachelor of Science in Technical Management**  
-DeVry University, 2017
-
----
-
-## 🏅 Certifications
-
-- Certified Ethical Hacker (CEH)  
-- CompTIA Security+  
-- CompTIA Linux+  
-- Splunk Core Certified Power User (CCPU)  
-
-### 📚 SANS Track (In Progress)
-- SEC275 – Foundations: Computers, Technology & Security  
-- SEC401 – Security Essentials  
-- SEC504 – Hacker Tools, Techniques & Incident Handling  
-
----
-
-## 🛠 Skills & Technical Focus
-
-### Operating Systems
-- Linux (Kali, Ubuntu)
-- Windows
-
-### Languages & Scripting
-- Python  
-- Bash  
-- Java  
-- SQL  
-
-### Core Specialties
-- Offensive Security  
-- Red / Blue / Purple Teaming  
-- Threat Hunting & Detection  
-- Security Operations (SOC)  
-- Network Security  
-- Infrastructure Security  
-- Malware Analysis  
-- Vulnerability Management  
-
-### Security Tools
-- Nmap  
-- Wireshark  
-- Burp Suite  
-- Metasploit  
-- BloodHound  
-- Splunk  
-- ELK Stack  
-- Cisco Packet Tracer  
+DeVry University — 2017  
 
 ---
 
 ## 💼 Experience Highlights
 
-- U.S. Navy Veteran – leadership & operational discipline  
-- Active Capture-the-Flag (CTF) participant  
-- Home lab design & security simulation  
-- Threat detection and log analysis practice  
+- U.S. Navy Veteran — leadership & operational discipline  
+- Active Capture-the-Flag (CTF) competitor  
+- Cybersecurity home lab design & attack simulation  
+- Network traffic analysis and log investigation practice  
 
 ---
 
@@ -80,8 +93,8 @@ DeVry University, 2017
 
 - Expanding red team tradecraft  
 - Strengthening detection engineering skills  
-- Publishing structured CTF walkthroughs  
-- Building enterprise-style lab infrastructure  
+- Publishing structured CTF investigations  
+- Building enterprise-style cybersecurity lab infrastructure  
 
 ---
 
@@ -91,9 +104,16 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shannonasmith/  
-- Credly: https://www.credly.com/users/shannon-smith-it-usn  
+**LinkedIn**: https://www.linkedin.com/in/shannonasmith  
 
-> Security is not a checklist — it’s a mindset.
+**Credly**: https://www.credly.com/users/shannon-smith-it-usn  
+
+---
+
+<div align="center">
+
+🛡 **Security is not a checklist — it’s a mindset.**
+
+</div>
