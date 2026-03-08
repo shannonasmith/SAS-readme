@@ -4,8 +4,6 @@
 
 **Cybersecurity Professional | Offensive-Leaning Defender | U.S. Navy Veteran**
 
-I focus on identifying vulnerabilities **before they become incidents**.
-
 My work blends **offensive security techniques with defensive detection**, using hands-on labs, adversarial simulation, and Capture-the-Flag (CTF) investigations to understand how attacks occur — and how defenders can detect them.
 
 </div>
