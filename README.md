@@ -11,7 +11,7 @@ My work blends **offensive security techniques with defensive detection**, using
 </div>
 
 ---
-
+<!--
 ## 🔬 Featured Cybersecurity Work
 
 **CTF Investigation Portfolio**
@@ -31,7 +31,7 @@ Focus areas include:
 - Threat detection & attacker behavior  
 
 ---
-
+-->
 ## 🛠 Technical Skills
 
 **Operating Systems**: <br>
