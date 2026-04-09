@@ -2,13 +2,32 @@
 
 # 👋 Shannon Smith
 
-**Cybersecurity Professional | Offensive-Leaning Defender | U.S. Navy Veteran**
+**Cybersecurity Professional | SOC-Focused Engineer | Offensive-Leaning Defender | U.S. Navy Veteran**
 
-My work blends **offensive security techniques with defensive detection**, using hands-on labs, adversarial simulation, and Capture-the-Flag (CTF) investigations to understand how attacks occur — and how defenders can detect them.
+My work blends **offensive security techniques with defensive detection**, using hands-on labs, adversarial simulation, and structured investigations to understand how attacks occur — and how defenders can detect, validate, and respond to them.
 
 </div>
 
 ---
+
+## 🚀 Current Project Focus
+
+**Agentic SOC Platform (v2)**
+
+Building an **evidence-backed, modular SOC system** designed to simulate real-world investigation workflows.
+
+Current focus includes:
+
+- Alert ingestion and normalization  
+- Entity extraction (IPs, domains, hashes, users)  
+- Enrichment and MITRE ATT&CK mapping  
+- Detection logic and confidence scoring  
+- Evidence validation and anti-hallucination guardrails  
+- Playbook-driven response workflows (phishing → login → malware)  
+- Case memory and retrieval for investigation reuse  
+
+---
+
 <!--
 ## 🔬 Featured Cybersecurity Work
 
@@ -30,6 +49,7 @@ Focus areas include:
 
 ---
 -->
+
 ## 🛠 Technical Skills
 
 **Operating Systems**: <br>
@@ -39,11 +59,25 @@ Focus areas include:
 - Python • Bash • Java • SQL  
 
 **Security Tools**: <br>
-- Nmap • Wireshark • Burp Suite • Metasploit • BloodHound • Splunk • ELK Stack • Cisco Packet Tracer  
+- Nmap • Wireshark • Burp Suite • Metasploit • BloodHound  
+- Splunk • ELK Stack • Zeek • Sysmon  
 
 **Core Specialties**: <br>
-- Offensive Security • Red / Blue / Purple Teaming • Threat Hunting • Security Operations (SOC)  
-- Network Security • Infrastructure Security • Malware Analysis • Vulnerability Management  
+- Security Operations (SOC) & Detection Engineering  
+- Offensive Security • Red / Blue / Purple Teaming  
+- Threat Hunting • Incident Response  
+- Network Security • Infrastructure Security  
+- Malware Analysis • Vulnerability Management  
+
+---
+
+## 🧪 Applied Cybersecurity Work
+
+- SOC-style investigation pipelines with enrichment, scoring, and validation layers  
+- MITRE ATT&CK mapping and detection alignment workflows  
+- Capture-the-Flag (CTF) investigations across web, DFIR, and network domains  
+- Enterprise-style cybersecurity home lab design and attack simulation  
+- Network traffic analysis and log-based detection workflows  
 
 ---
 
@@ -80,19 +114,19 @@ DeVry University — 2017
 
 ## 💼 Experience Highlights
 
-- U.S. Navy Veteran — leadership & operational discipline  
+- U.S. Navy Veteran — leadership, operational discipline, and high-pressure decision-making  
 - Active Capture-the-Flag (CTF) competitor  
-- Cybersecurity home lab design & attack simulation  
-- Network traffic analysis and log investigation practice  
+- Cybersecurity home lab design & adversarial simulation  
+- Log analysis, network traffic analysis, and structured investigation workflows  
 
 ---
 
 ## 🔎 Current Focus
 
-- Expanding red team tradecraft  
-- Strengthening detection engineering skills  
-- Publishing structured CTF investigations  
-- Building enterprise-style cybersecurity lab infrastructure  
+- Expanding detection engineering capabilities  
+- Strengthening threat hunting workflows  
+- Building a modular SOC platform (Agentic SOC Engine v2)  
+- Publishing structured, evidence-based investigation writeups  
 
 ---
 
@@ -104,8 +138,8 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 ### 🤝 Connect With Me
 
+**Portfolio**: https://shannonasmith.github.io/  
 **LinkedIn**: https://www.linkedin.com/in/shannonasmith  
-
 **Credly**: https://www.credly.com/users/shannon-smith-it-usn  
 
 ---
