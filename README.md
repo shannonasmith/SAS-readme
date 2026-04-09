@@ -17,7 +17,7 @@ My work focuses on building **SOC-style security systems** that simulate how ana
 ## 🎯 Portfolio
 
 <div align="center">
-  <img src="https://shannonasmith.github.io/assets/images/portfolio.png" width="800">
+  <img src="https://shannonasmith.github.io/images/portfolio.png" width="800">
 </div>
 
 <p align="center">
