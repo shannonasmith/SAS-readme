@@ -2,9 +2,13 @@
 
 # 👋 Shannon Smith
 
-**Cybersecurity Professional | SOC-Focused Engineer | Offensive-Leaning Defender | U.S. Navy Veteran**
+**Cybersecurity Engineer | SOC Systems • Detection Engineering • Agentic Investigation | U.S. Navy Veteran**
 
-My work blends **offensive security techniques with defensive detection**, using hands-on labs, adversarial simulation, and structured investigations to understand how attacks occur — and how defenders can detect, validate, and respond to them.
+![Focus](https://img.shields.io/badge/Focus-SOC%20Analysis%20%7C%20Detection%20Engineering%20%7C%20Automation-blue?style=for-the-badge)
+![Approach](https://img.shields.io/badge/Approach-Detection%20→%20Investigation%20→%20Decision-success?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20MITRE%20ATT%26CK%20%7C%20SIEM-black?style=for-the-badge)
+
+My work focuses on building **SOC-style security systems** that simulate how analysts triage, investigate, and respond to threats — combining **offensive understanding with defensive detection and structured investigation workflows**.
 
 </div>
 
@@ -12,43 +16,38 @@ My work blends **offensive security techniques with defensive detection**, using
 
 ## 🚀 Current Project Focus
 
-**Agentic SOC Platform (v2)**
+### 🧠 Agentic SOC Platform (v2)
 
-Building an **evidence-backed, modular SOC system** designed to simulate real-world investigation workflows.
+An evolving **modular SOC system** designed to replicate real-world investigation pipelines:
 
-Current focus includes:
+```
+Alert → Detection → Investigation → Decision
+```
 
-- Alert ingestion and normalization  
-- Entity extraction (IPs, domains, hashes, users)  
-- Enrichment and MITRE ATT&CK mapping  
-- Detection logic and confidence scoring  
-- Evidence validation and anti-hallucination guardrails  
-- Playbook-driven response workflows (phishing → login → malware)  
-- Case memory and retrieval for investigation reuse  
+Current capabilities include:
 
----
-
-<!--
-## 🔬 Featured Cybersecurity Work
-
-**CTF Investigation Portfolio**
-
-Structured investigations and technical writeups from multiple cybersecurity competitions.
-
-Repository ➡️ https://github.com/shannonasmith/CTF-Writeups
-
-Focus areas include:
-
-- Web exploitation  
-- DFIR & artifact analysis  
-- Cryptography  
-- Network traffic analysis  
-- OSINT investigations  
-- Linux system analysis  
-- Threat detection & attacker behavior  
+- alert ingestion and normalization  
+- entity extraction (IPs, domains, hashes, users)  
+- enrichment and MITRE ATT&CK mapping  
+- detection logic and confidence scoring  
+- investigation workflows and correlation  
+- response recommendation and playbook design  
+- evidence validation and structured outputs  
 
 ---
--->
+
+## 🧠 SOC System Perspective
+
+My work follows a **progressive SOC architecture approach**:
+
+| Stage | Focus |
+|------|------|
+| Alert Analysis | Understanding and triaging events |
+| Detection Engineering | Mapping behavior to ATT&CK |
+| Investigation | Enrichment and correlation |
+| Decision Support | Response guidance and automation |
+
+---
 
 ## 🛠 Technical Skills
 
@@ -73,11 +72,12 @@ Focus areas include:
 
 ## 🧪 Applied Cybersecurity Work
 
-- SOC-style investigation pipelines with enrichment, scoring, and validation layers  
-- MITRE ATT&CK mapping and detection alignment workflows  
-- Capture-the-Flag (CTF) investigations across web, DFIR, and network domains  
-- Enterprise-style cybersecurity home lab design and attack simulation  
-- Network traffic analysis and log-based detection workflows  
+- SOC-style alert analysis and triage pipelines  
+- MITRE ATT&CK mapping and detection workflows  
+- investigation and enrichment pipelines  
+- CTF-based offensive and defensive analysis  
+- enterprise-style cybersecurity home lab design  
+- network traffic analysis and log-based detection  
 
 ---
 
@@ -114,19 +114,19 @@ DeVry University — 2017
 
 ## 💼 Experience Highlights
 
-- U.S. Navy Veteran — leadership, operational discipline, and high-pressure decision-making  
+- U.S. Navy Veteran — leadership & operational discipline  
 - Active Capture-the-Flag (CTF) competitor  
-- Cybersecurity home lab design & adversarial simulation  
-- Log analysis, network traffic analysis, and structured investigation workflows  
+- Cybersecurity home lab design & attack simulation  
+- Network traffic analysis and structured investigation workflows  
 
 ---
 
 ## 🔎 Current Focus
 
-- Expanding detection engineering capabilities  
-- Strengthening threat hunting workflows  
-- Building a modular SOC platform (Agentic SOC Engine v2)  
-- Publishing structured, evidence-based investigation writeups  
+- advancing detection engineering capabilities  
+- strengthening investigation and correlation workflows  
+- building a modular SOC platform (Agentic SOC Engine v2)  
+- expanding AI-assisted security workflows  
 
 ---
 
@@ -146,6 +146,6 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 <div align="center">
 
-🛡 **Security is not a checklist — it’s a mindset.**
+🛡 **Security is not a checklist — it’s a system.**
 
 </div>
