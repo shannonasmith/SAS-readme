@@ -17,7 +17,7 @@ My work focuses on building **SOC-style security systems** that simulate how ana
 ## 🎯 Portfolio
 
 <div align="center">
-  <img src="https://shannonasmith.github.io/images/portfolio.png" width="800">
+  <img src="images/portfolio.png" width="800">
 </div>
 
 <p align="center">
@@ -133,7 +133,7 @@ DeVry University — 2017
 ## U.S. Navy Service
 
 <div align="center">
-  <img src="images/navy-plaque.png" width="500">
+  <img src="images/navy-plaque.png" width="600">
 </div>
 
 Petty Officer Second Class (E-5)  
