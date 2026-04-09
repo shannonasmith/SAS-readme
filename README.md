@@ -14,17 +14,28 @@ My work focuses on building **SOC-style security systems** that simulate how ana
 
 ---
 
+## 🎯 Portfolio
+
+<div align="center">
+  <img src="https://shannonasmith.github.io/assets/images/portfolio.png" width="800">
+</div>
+
+<p align="center">
+Security investigations, labs, and technical writeups.<br>
+👉 https://shannonasmith.github.io/
+</p>
+
+---
+
 ## 🚀 Current Project Focus
 
 ### 🧠 Agentic SOC Platform (v2)
 
-An evolving **modular SOC system** designed to replicate real-world investigation pipelines:
-
-```
+```text
 Alert → Detection → Investigation → Decision
 ```
 
-Current capabilities include:
+Building an evolving **modular SOC system** designed to replicate real-world investigation pipelines:
 
 - alert ingestion and normalization  
 - entity extraction (IPs, domains, hashes, users)  
@@ -37,8 +48,6 @@ Current capabilities include:
 ---
 
 ## 🧠 SOC System Perspective
-
-My work follows a **progressive SOC architecture approach**:
 
 | Stage | Focus |
 |------|------|
@@ -118,6 +127,18 @@ DeVry University — 2017
 - Active Capture-the-Flag (CTF) competitor  
 - Cybersecurity home lab design & attack simulation  
 - Network traffic analysis and structured investigation workflows  
+
+---
+
+## U.S. Navy Service
+
+<div align="center">
+  <img src="images/navy-plaque.png" width="500">
+</div>
+
+Petty Officer Second Class (E-5)  
+United States Navy (2004–2008)  
+USS New Orleans (LPD-18)  
 
 ---
 
