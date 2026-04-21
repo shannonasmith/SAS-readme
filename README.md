@@ -31,33 +31,23 @@ Security investigations, labs, and technical writeups.<br>
 
 | Skill | Applied In |
 |------|------------|
-| SOC Alert Triage | [AI-Assisted SOC Alert Analyzer](https://github.com/shannonasmith/AI-Assisted-SOC-Alert-Analyzer) |
-| MITRE ATT&CK Mapping | [SOC MITRE ATT&CK Mapping Engine](https://github.com/shannonasmith/AI-Assisted-SOC-MITRE-ATTACK-Mapping-Engine) |
-| Investigation Workflows | [Agentic SOC Investigation Engine](https://github.com/shannonasmith/Agentic-SOC-Investigation-Engine) |
-| Detection Engineering | Custom rule-based + hybrid scoring pipelines |
-| Threat Hunting & Correlation | Batch analysis, severity distribution, IP relationship mapping |
-| Automation & Scripting | Python-based SOC pipelines and CLI workflows |
+| **SOC Alert Triage** | [AI-Assisted SOC Alert Analyzer](https://github.com/shannonasmith/AI-Assisted-SOC-Alert-Analyzer) |
+| **MITRE ATT&CK Mapping** | [SOC MITRE ATT&CK Mapping Engine](https://github.com/shannonasmith/AI-Assisted-SOC-MITRE-ATTACK-Mapping-Engine) |
+| **Investigation Workflows** | [Agentic SOC Investigation Engine](https://github.com/shannonasmith/Agentic-SOC-Investigation-Engine) |
+| **Detection Engineering** | Custom rule-based + hybrid scoring pipelines |
+| **Threat Hunting & Correlation** | Batch analysis, severity distribution, IP relationship mapping |
+| **Automation & Scripting** | Python-based SOC pipelines and CLI workflows |
 
 ---
 
 ## 🛠 Technical Skills
 
-**Operating Systems**:
-- Linux (Kali, Ubuntu) • Windows  
-
-**Languages & Scripting**:
-- Python • Bash • Java • SQL  
-
-**Security Tools**:
-- Nmap • Wireshark • Burp Suite • Metasploit • BloodHound  
-- Splunk • ELK Stack • Zeek • Sysmon  
-
-**Core Specialties**:
-- Security Operations (SOC) & Detection Engineering  
-- Offensive Security • Red / Blue / Purple Teaming  
-- Threat Hunting • Incident Response  
-- Network Security • Infrastructure Security  
-- Malware Analysis • Vulnerability Management  
+| Category | Technologies & Tools |
+|------|------------|
+| **Operating Systems** | Linux (Kali, Ubuntu) • Windows |
+| **Languages & Scripting** | Python • Bash • Java • SQL |
+| **Security Tools** | Nmap • Wireshark • Burp Suite • Metasploit • BloodHound <br> Splunk • ELK Stack • Zeek • Sysmon |
+| **Core Specialties** | Security Operations (SOC) • Detection Engineering <br> Offensive Security • Red / Blue / Purple Teaming <br> Threat Hunting • Incident Response <br> Network Security • Infrastructure Security <br> Malware Analysis • Vulnerability Management |
 
 ---
 
